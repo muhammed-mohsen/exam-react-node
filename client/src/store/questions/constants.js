@@ -1,0 +1,4 @@
+export const GET_QUESTIONS = "GET_QUESTIONS";
+export const GET_QUESTIONS_SUCCESS = "GET_QUESTIONS_SUCCESS";
+export const CHANGE_STEP = "CHANGE_STEP";
+export const SAVE_NAME = "SAVE_NAME";
